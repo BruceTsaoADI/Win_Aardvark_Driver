@@ -1,0 +1,16 @@
+// File: .vscode/launch.json
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Windows",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/aardvark_i2c_example.exe",
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "Build",
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/Program Files/MinGW/bin/gdb.exe"
+        }
+    ]
+}

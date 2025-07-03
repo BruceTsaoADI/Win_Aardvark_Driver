@@ -1,0 +1,16 @@
+// File: .vscode/c_cpp_properties.json
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "C:/Program Files/MinGW/include"
+            ],
+            "compilerPath": "C:/Program Files/MinGW/bin/gcc.exe",
+            "cStandard": "c11",
+            "intelliSenseMode": "gcc-x86"
+        }
+    ],
+    "version": 4
+}
