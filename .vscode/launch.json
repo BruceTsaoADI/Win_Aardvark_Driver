@@ -10,7 +10,7 @@
             "cwd": "${workspaceFolder}",
             "preLaunchTask": "Build",
             "MIMode": "gdb",
-            "miDebuggerPath": "C:/Program Files/MinGW/bin/gdb.exe"
+            "miDebuggerPath": "C:/analog/MinGW-W64_GCC-8.1.0/i686-8.1.0-release-posix-dwarf-rt_v6-rev0/mingw32/bin/gdb.exe",
         }
     ]
 }
